@@ -1,5 +1,6 @@
-## Next.js App Router Course - Starter
+## Your Personal Finance manager
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Tired of managing your money, counting how much is left, and reviewing how much you spent at the end of the month... huh?
+We are here to make it easy-peasy :)
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+⚠️ Work in Progress! ⚠️
