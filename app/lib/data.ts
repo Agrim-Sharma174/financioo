@@ -52,7 +52,6 @@ export async function fetchLatestInvoices() {
     throw new Error('Failed to fetch the latest invoices.');
   }
 }
-
 export async function fetchCardData() {
   try {
     // You can probably combine these into a single SQL query
